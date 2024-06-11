@@ -42,8 +42,11 @@
 
 ###
 
-<p align="left">Ready to embark on a tech adventure? Connect with me on LinkedIn or shoot me an email. I'm always up for a stimulating conversation or a brainstorming session over a virtual cup of coffee.</p>
+<p align="left">
+Ready to embark on a tech adventure? Connect with me on <a href="https://www.linkedin.com/in/adamhussain0" target="_blank">LinkedIn</a> or shoot me an <a href="mailto:adamhussain2k@gmail.com">email</a>. I'm always up for a stimulating conversation or a brainstorming session over a virtual cup of coffee.
+<br><br>
 📄<a href="https://docs.google.com/document/d/1Nkwcn9wlEXyS5E2YyUAMjtCQu4XKa-a2DHvx6ZpUQso/export?format=pdf" target="_blank">Resume</a>
+</p>
 
 ###
 
