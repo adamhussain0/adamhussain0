@@ -43,6 +43,7 @@
 ###
 
 <p align="left">Ready to embark on a tech adventure? Connect with me on LinkedIn or shoot me an email. I'm always up for a stimulating conversation or a brainstorming session over a virtual cup of coffee.</p>
+📄<a href="https://docs.google.com/document/d/1eedpakLvpwVNtGCr3yZGYDOmJyYp66f2/export?format=pdf" target="_blank">Resume</a>
 
 ###
 
